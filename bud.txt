@@ -1,0 +1,3 @@
+#!/bin/bash
+
+this is going to be a script for Bud later :)
